@@ -1,0 +1,12 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "A modular, testable Rock Paper Scissors game for portfolio use.",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
